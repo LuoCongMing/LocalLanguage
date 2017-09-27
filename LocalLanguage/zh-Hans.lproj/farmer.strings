@@ -1,0 +1,11 @@
+/* 
+  farmer.strings
+  LocalLanguage
+
+  Created by JMiMac01 on 2017/9/27.
+  Copyright © 2017年 JMiMac01. All rights reserved.
+*/
+"123" = "这是一段测试内容";
+"切换到藏语" = "切换到藏语";
+"切换到中文"="切换到中文";
+"四川阿坝藏族自治州" = "四川阿坝藏族自治州";
